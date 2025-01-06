@@ -6,21 +6,13 @@ This project implements a Food Delivery Management System using PL/SQL. The syst
 
 # Key Features
 
---Database Structure:
+--Database Structure: Tables for Customers, Restaurants, DeliveryAgents, and Orders.
 
-Tables for Customers, Restaurants, DeliveryAgents, and Orders.
+--Dynamic Order Assignment: PL/SQL procedure to assign available delivery agents dynamically.
 
---Dynamic Order Assignment:
+--Automated Status Updates: Trigger to update order status upon delivery.
 
-PL/SQL procedure to assign available delivery agents dynamically.
-
---Automated Status Updates:
-
-Trigger to update order status upon delivery.
-
---Analytics:
-
-SQL query to calculate average delivery times per restaurant.
+--Analytics: SQL query to calculate average delivery times per restaurant.
 
 # Tasks Implemented
 
